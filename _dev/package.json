@@ -1,0 +1,21 @@
+{
+  "name": "website-develop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "",
+  "license": "none",
+  "devDependencies": {
+    "@types/jquery": "3.x",
+    "autoprefixer": "9.x",
+    "browser-sync": "2.x",
+    "connect-ssi": "1.x",
+    "gulp": "4.x",
+    "gulp-plumber": "1.x",
+    "gulp-postcss": "8.x",
+    "gulp-pug": "4.x",
+    "gulp-sass": "4.x",
+    "gulp-typescript": "6.0.0-alpha.1",
+    "typescript": "3.x"
+  }
+}
